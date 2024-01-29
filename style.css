@@ -15,3 +15,11 @@ main{
 .logo{
     width: 250px;
 }
+
+table{
+    border: none;
+}
+
+.last-data{
+    width: 55%;
+}
