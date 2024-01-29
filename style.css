@@ -9,6 +9,10 @@
     background-color: rgb(1, 215, 253);
 }
 
+.logo{
+    width: 250px;
+}
+
 main{
     margin: auto;
     width: 50%;
@@ -22,9 +26,6 @@ main{
     margin-top: 20px;
 }
 
-.logo{
-    width: 250px;
-}
 
 thead{
     background-color: rgb(0, 117, 252);
