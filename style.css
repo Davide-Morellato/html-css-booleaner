@@ -17,9 +17,13 @@ main{
 }
 
 table{
-    border: none;
+    border-spacing: 0;
+}
+
+.color-row{
+background-color: aqua;
 }
 
 .last-data{
-    width: 55%;
+    width: 60%;
 }
